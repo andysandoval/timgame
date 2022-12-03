@@ -8,3 +8,5 @@ Members:
 - Designer: Nicolas Rivas
 
 #Relevant content in the outputs folder
+
+![benchmarking] (https://github.com/andysandoval/timgame/blob/main/outputs/Benchmarking%20Comp.PNG)
