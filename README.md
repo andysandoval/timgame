@@ -27,10 +27,14 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 # UX Persona
 
-![Persona UX 1](https://github.com/andysandoval/timgame/blob/3394cda0cca3f762917191ae6f0ff1fd762ff267/outputs/Person%20UX/UX%20persona-1.png)
+![Persona UX 1](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-1.png)
 
-![Persona UX 2](https://github.com/andysandoval/timgame/blob/f8db0ff103a5943de8f0bf8796f348c76f5e49a5/outputs/Person%20UX/UX%20persona-2.png)
+![Persona UX 2](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-2.png)
 
-![Persona UX 3](https://github.com/andysandoval/timgame/blob/f8db0ff103a5943de8f0bf8796f348c76f5e49a5/outputs/Person%20UX/UX%20persona-3.png)
+![Persona UX 3](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-3.png)
+
+# Benchmarking 
+
+![Benchmarking TimGame](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/BenchMarking/Benchmarking%20Comp.PNG)
 
 
