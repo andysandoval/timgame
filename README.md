@@ -25,6 +25,8 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 ![Logo](https://raw.githubusercontent.com/andysandoval/timgame/main/source/Logos/Timgame%20logo.jpg)
 
+# UX Persona
+
 ![Persona UX 1](https://github.com/andysandoval/timgame/blob/3394cda0cca3f762917191ae6f0ff1fd762ff267/outputs/Person%20UX/UX%20persona-1.png)
 
 ![Persona UX 2](https://github.com/andysandoval/timgame/blob/f8db0ff103a5943de8f0bf8796f348c76f5e49a5/outputs/Person%20UX/UX%20persona-2.png)
