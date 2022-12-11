@@ -78,7 +78,7 @@ These interfaces are based on the wireframes, but after receiving many suggestio
 
 You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
 
-This is the High_Definition Interfaces, you can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
+You can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
 ![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
 
 
