@@ -8,7 +8,7 @@ You can see the complete figma project [here](https://www.figma.com/file/8bLkmAR
 # NOTE: Relevant content in the outputs folder
 
 ## Team Role Identification:
-To optimize and facilitate the development of the project, roles were assigned to each team member. The team is a group of 3 people who will work under one of three roles, being project manager, analyst and designer:
+To optimize and facilitate the development of the project, different roles were assigned to each team member.
 
 ## Project manager:
 Member: [**Rodrigo Brevis**](https://github.com/R0drig0br)
