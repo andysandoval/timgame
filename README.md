@@ -64,12 +64,12 @@ If you want to see the complete document, click [here](https://github.com/andysa
 # Structure 
 In this step, we define de Navigation of our app, using a Navigation Diagram, this helps us to realize the Wireframes and the final interfaces.
 
-Our navigation diagram has many changes in relation to the previous one, which you can see [here](), but after many suggestions, we have changed that Diagram to the next: 
+Our navigation diagram has many changes in relation to the previous one, which you can see [here](https://github.com/andysandoval/timgame/blob/main/source/Navigation%20Diagram.png), but after many suggestions, we have changed that Diagram to the next: 
 
 ![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
 # HD_Interfaces
-This interfaces are based on the wireframes, but after received many suggestions we maked changes on our interfaces.
+These interfaces are based on the wireframes, but after receiving many suggestions we made changes to our interfaces. You can see the wireframes here
 You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
 
 This is the High_Definition Interfaces, you can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
