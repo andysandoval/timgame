@@ -2,6 +2,11 @@
 
 User experience design for TimGame App - Find videogame teammates easier.
 
+## Fimga Interfaces Link
+You can see the complete figma project [here](https://www.figma.com/file/8bLkmAR2t2qFKxjzHuk5Lk/HD-interfaces-Taller-7?node-id=0%3A1&t=V82KgUcLdzbbCzGU-1)
+
+# NOTE: Relevant content in the outputs folder
+
 ## Team Role Identification:
 To optimize and ease the project development were assigned roles to each member of the team which they will be divided and assigned the most adequate tasks the the respective roles.
 The team is a group of 3 people who are going to work under one of three roles, being this  project manager, analyst and designer:
