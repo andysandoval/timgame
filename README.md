@@ -41,4 +41,11 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 ![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
+# HD_Interfaces
+
+This is the High_Definition Interfaces, you can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
+
+![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
+
+
 
