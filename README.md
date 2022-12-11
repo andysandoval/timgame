@@ -23,7 +23,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 # NOTE: Relevant content in the outputs folder
 
-![Logo](https://raw.githubusercontent.com/andysandoval/timgame/main/source/Logos/Timgame%20logo.jpg)
+![Logo](https://github.com/andysandoval/timgame/blob/main/source/Logos/Logo%20timgame%20sin%20fondo.png)
 
 # Scope
 
