@@ -80,5 +80,5 @@ You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/m
 You can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
 ![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
 
-
+![HD_Interface_Assistive_Technologies](https://github.com/andysandoval/timgame/blob/cdbd696fe348862589935dc0eb8d8bae07e0f028/outputs/Interfaces%20HD/TimGameInterface%20Assistive%20technologies.png)
 
