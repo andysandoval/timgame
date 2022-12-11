@@ -25,7 +25,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 ![Logo](https://raw.githubusercontent.com/andysandoval/timgame/main/source/Logos/Timgame%20logo.jpg)
 
-# UX Persona
+# Scope
 
 ![Persona UX 1](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-1.png)
 
