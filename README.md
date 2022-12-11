@@ -25,11 +25,13 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 Today, a large part of video games is designed to be played in a multiplayer format, so in some cases, it is difficult to find people to complete the places available in a video game, especially when it comes to lonely people, this affects not only beginner players until a large part of the gamer population. Although there are groups or forums where people who need can find teammates, it is still a problem, since not everyone has access to these groups.
 
-##Value Proposal Canvas
+## Value Proposal Canvas
 
 The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
+
 ![Canvas](https://github.com/andysandoval/timgame/blob/main/outputs/Canvas/Value_Proposition_Canvas.png)
 
+After making this value canvas, we could propose a solution.
 
 # Solution proposal.
 
@@ -40,15 +42,24 @@ Footer
 
 # Scope
 
+## UX_Persona
+
+After defining our product strategy, is important to define a scope.  To help us, we create 3 UX_Persona, they were the ideal customer for our app and this helped us to define the scope of design.
+
 ![Persona UX 1](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-1.png)
 
 ![Persona UX 2](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-2.png)
 
 ![Persona UX 3](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-3.png)
+If you want to see the complete document click [here](https://github.com/andysandoval/timgame/tree/main/outputs/Canvas)
 
-# Benchmarking 
+## Benchmarking 
+
+Then, we made a Benchmarking, looking for the principal competitors, this gave us an idea of what requirements we have to realize to be a real 
+competitors.
 
 ![Benchmarking TimGame](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/BenchMarking/Benchmarking%20Comp.PNG)
+If you want to see the complete document click [here](https://github.com/andysandoval/timgame/tree/main/outputs/BenchMarking)
 
 # Structure 
 
