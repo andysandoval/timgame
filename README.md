@@ -37,4 +37,8 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 ![Benchmarking TimGame](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/BenchMarking/Benchmarking%20Comp.PNG)
 
+# Structure 
+
+![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
+
 
