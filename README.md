@@ -51,7 +51,7 @@ After defining our product strategy, is important to define a scope.  To help us
 ![Persona UX 2](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-2.png)
 
 ![Persona UX 3](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-3.png)
-If you want to see the complete document click [here](https://github.com/andysandoval/timgame/tree/main/outputs/Canvas)
+If you want to see the complete document, click [here](https://github.com/andysandoval/timgame/tree/main/outputs/Canvas)
 
 ## Benchmarking 
 
@@ -59,16 +59,20 @@ Then, we made a Benchmarking, looking for the principal competitors, this gave u
 competitors.
 
 ![Benchmarking TimGame](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/BenchMarking/Benchmarking%20Comp.PNG)
-If you want to see the complete document click [here](https://github.com/andysandoval/timgame/tree/main/outputs/BenchMarking)
+If you want to see the complete document, click [here](https://github.com/andysandoval/timgame/tree/main/outputs/BenchMarking)
 
 # Structure 
+In this step, we define de Navigation of our app, using a Navigation Diagram, this helps us to realize the Wireframes and the final interfaces.
+
+Our navigation diagram has many changes in relation to the previous one, which you can see [here](), but after many suggestions, we have changed that Diagram to the next: 
 
 ![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
 # HD_Interfaces
+This interfaces are based on the wireframes, but after received many suggestions we maked changes on our interfaces.
+You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
 
 This is the High_Definition Interfaces, you can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
-
 ![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
 
 
