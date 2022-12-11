@@ -25,7 +25,11 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 Today, a large part of video games is designed to be played in a multiplayer format, so in some cases, it is difficult to find people to complete the places available in a video game, especially when it comes to lonely people, this affects not only beginner players until a large part of the gamer population. Although there are groups or forums where people who need can find teammates, it is still a problem, since not everyone has access to these groups.
 
+##Value Proposal Canvas
+
+The first step to finding the problem and a solution was to make a value proposition canvas, this gave us an idea to solve the problem previously mentioned.
 ![Canvas](https://github.com/andysandoval/timgame/blob/main/outputs/Canvas/Value_Proposition_Canvas.png)
+
 
 # Solution proposal.
 
