@@ -80,5 +80,10 @@ You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/m
 You can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
 ![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
 
+## Assistive Technologies
+Another initiative we propose is to include assistive technologies for visually impaired people. As our application is focused on people who spend many hours in front of a screen, we decided to make views that help these people, we include 2 of these technologies. The first one, is for people who have problems perceiving some colors, for this reason we chose to use a more neutral and opaque color. The second technology we implemented is for people who cannot see very small words, allowing the user to choose the font size that suits them best.
+
+You can see more details of these views in the following [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD/007_Assistive_technologies)
+
 ![HD_Interface_Assistive_Technologies](https://github.com/andysandoval/timgame/blob/cdbd696fe348862589935dc0eb8d8bae07e0f028/outputs/Interfaces%20HD/TimGameInterface%20Assistive%20technologies.png)
 
