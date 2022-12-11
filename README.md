@@ -23,9 +23,9 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 # NOTE: Relevant content in the outputs folder
 
-![Logo](https://raw.githubusercontent.com/andysandoval/timgame/main/source/Logos/Timgame%20logo.jpg)
+![Logo](https://github.com/andysandoval/timgame/blob/main/source/Logos/Logo%20timgame%20sin%20fondo.png)
 
-# UX Persona
+# Scope
 
 ![Persona UX 1](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-1.png)
 
@@ -36,5 +36,9 @@ Team member in charge of the main content that is going to be evaluated in the p
 # Benchmarking 
 
 ![Benchmarking TimGame](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/BenchMarking/Benchmarking%20Comp.PNG)
+
+# Structure 
+
+![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
 
