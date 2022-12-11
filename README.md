@@ -88,3 +88,6 @@ You can see more details of these views in the following [folder](https://github
 
 ![HD_Interface_Assistive_Technologies](https://github.com/andysandoval/timgame/blob/cdbd696fe348862589935dc0eb8d8bae07e0f028/outputs/Interfaces%20HD/TimGameInterface%20Assistive%20technologies.png)
 
+# User Journey Map
+
+![User Journey Map](https://github.com/andysandoval/timgame/blob/b7c7b6842cec6180f592475ae87e2155585b80cd/outputs/User%20Journey%20Map/TimGame%20User%20Journey%20Map.png)
