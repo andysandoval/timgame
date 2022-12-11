@@ -74,7 +74,8 @@ Our navigation diagram has many changes in relation to the previous one, which y
 ![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
 # HD_Interfaces
-These interfaces are based on the wireframes, but after receiving many suggestions we made changes to our interfaces. You can see the wireframes here
+These interfaces are based on the wireframes, but after receiving many suggestions we made changes to our interfaces.
+
 You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
 
 This is the High_Definition Interfaces, you can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
