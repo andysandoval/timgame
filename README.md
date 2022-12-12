@@ -29,6 +29,7 @@ Team member in charge of the main content that is going to be evaluated in the p
 
 Today, a large part of video games are designed to be played in multiplayer format, so in some cases, it is difficult to find people to complete the available slots in a video game, especially when it comes to lonely people, this affects not only beginner players, but comes to affect almost most people who simply like to play in this mode. Although there are groups or forums where people in need can find teammates, it is still a problem, as not everyone has access to these groups.
 
+# Strategy
 
 ## Value Proposal Canvas
 
@@ -38,7 +39,7 @@ The first step to finding the problem and a solution was to make a value proposi
 
 After this value canvas has been completed, we will propose our solution.
 
-# Solution proposal.
+## Solution proposal.
 
 Video Game Match.
 
@@ -58,6 +59,12 @@ After defining our product strategy, is important to define a scope.  To help us
 ![Persona UX 3](https://github.com/andysandoval/timgame/blob/65a33250c1eec5a73ed08f9941754c764f05e452/outputs/Person%20UX/UX%20Persona-3.png)
 If you want to see the complete document, click [here](https://github.com/andysandoval/timgame/tree/main/outputs/Canvas)
 
+## User Journey Map
+
+By using the UX Persona tool, we were able to understand what are the main needs that our users will have and how they feel when a problem arises or something happens that they do not like. With the above observations, we concluded through a User Journey Map how our users will react when using the application.
+
+![User Journey Map](https://github.com/andysandoval/timgame/blob/b7c7b6842cec6180f592475ae87e2155585b80cd/outputs/User%20Journey%20Map/TimGame%20User%20Journey%20Map.png)
+
 ## Benchmarking 
 
 Then, we made a Benchmarking, looking for the principal competitors, this gave us an idea of what requirements we have to realize to be a real 
@@ -73,12 +80,18 @@ Our navigation diagram has many changes in relation to the previous one, which y
 
 ![Navigation Diagram](https://github.com/andysandoval/timgame/blob/main/outputs/Navigation%20Diagram/Navigation%20Diagram.png)
 
-# HD_Interfaces
-These interfaces are based on the wireframes, but after receiving many suggestions we made changes to our interfaces.
+# Skeleton
 
-You can see the wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
+You can view our initially created wireframes [here](https://github.com/andysandoval/timgame/tree/main/outputs/Wireframes)
+
+# Surface
+
+## HD_Interfaces
+
+The interfaces created were made from the wireframes shown above, plus changes were made to the views based on the comments and suggestions made in a heuristic cross evaluation, and we tried to include most of the suggestions and recommendations resulting in the interfaces shown below.
 
 You can see the details in the next [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD)
+
 ![HD_Interfaces](https://github.com/andysandoval/timgame/blob/main/outputs/Interfaces%20HD/TimGameInterface.png)
 
 ## Assistive Technologies
@@ -87,7 +100,3 @@ Another initiative we propose is to include assistive technologies for visually 
 You can see more details of these views in the following [folder](https://github.com/andysandoval/timgame/tree/main/outputs/Interfaces%20HD/007_Assistive_technologies)
 
 ![HD_Interface_Assistive_Technologies](https://github.com/andysandoval/timgame/blob/cdbd696fe348862589935dc0eb8d8bae07e0f028/outputs/Interfaces%20HD/TimGameInterface%20Assistive%20technologies.png)
-
-# User Journey Map
-
-![User Journey Map](https://github.com/andysandoval/timgame/blob/b7c7b6842cec6180f592475ae87e2155585b80cd/outputs/User%20Journey%20Map/TimGame%20User%20Journey%20Map.png)
