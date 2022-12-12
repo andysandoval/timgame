@@ -2,7 +2,7 @@
 
 User experience design for TimGame App - Find videogame teammates easier.
 
-## Fimga Interfaces Link
+## Figma Interfaces Link
 You can see the complete figma project [here](https://www.figma.com/file/8bLkmAR2t2qFKxjzHuk5Lk/HD-interfaces-Taller-7?node-id=0%3A1&t=V82KgUcLdzbbCzGU-1)
 
 # NOTE: Relevant content in the outputs folder
